@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SearchString {
+class StringStartsWith {
     public static void main(String[] args) {
         String[] array = { "ask","play","type","code" };
         Scanner sc = new Scanner(System.in);
