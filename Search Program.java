@@ -1,12 +1,18 @@
 import java.util.Scanner;
 
-class HelloWorld {
+class SearchString {
     public static void main(String[] args) {
         String[] array = { "ask","play","type","code" };
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the string to search: ");
         String s = sc.nextLine();
         boolean ans = search(array,s);
-        System.out.println(ans);
+        if(ans){
+            System.out.println("Found");
+        }
+        else{
+            System.out.println("Not Found");
+        }
     }
     static boolean search(String[] array, String s){
         for(int i=0;i<array.length;i++){
