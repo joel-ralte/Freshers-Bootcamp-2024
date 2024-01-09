@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+class HelloWorld {
+    public static void main(String[] args) {
+        String[] array = { "ask","play","type","code" };
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        boolean ans = search(array,s);
+        System.out.println(ans);
+    }
+    static boolean search(String[] array, String s){
+        for(int i=0;i<array.length;i++){
+            if(array[i].startsWith(s))
+                return true;
+        }
+        return false;
+    }
+}
