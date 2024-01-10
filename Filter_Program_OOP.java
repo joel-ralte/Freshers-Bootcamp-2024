@@ -27,21 +27,17 @@ class DisplayFilteredArray {
 }
 class FilterStringArray {
     public static void main(String[] args) {
-        // Variable declaration and input
         String[] inputArray = { "ask","play","type","code","asia","app" };
-        
         ArrayList<String> filteredArray = new ArrayList<>();
-        Scanner sc = new Scanner(System.in);
         
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter the starting string to search: ");
         String inputString = sc.nextLine();
         
-        // Object creation
         Container containerObj = new Container(inputArray,inputString);
         FilterArray filterObj = new FilterArray();
         DisplayFilteredArray displayObj = new DisplayFilteredArray();
         
-        // Method invokation
         filteredArray = filterObj.filterMethod(containerObj.array, inputString);
         displayObj.displayInTerminal(filteredArray);
     }
