@@ -3,7 +3,6 @@ import java.util.function.Predicate;
 
 class FilterStringArray {
     public static void main(String[] args) {
-        // Variable declaration and input
         String[] inputArray = { "ask","play","type","code","asia","app" };
         ArrayList<String> filteredArray = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
@@ -12,7 +11,6 @@ class FilterStringArray {
         String inputString = sc.nextLine();
         Predicate<String> startsWith = str -> str.startsWith(inputString);
         
-        // Function calls
         filteredArray = filter(inputArray,startsWith);
         displayInTerminal(filteredArray);
     }
