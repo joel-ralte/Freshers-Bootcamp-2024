@@ -50,8 +50,7 @@ class Main {
         
         StringListFilterController filterObj = new StringListFilterController(inputArray);
         StartsWithStrategy predicate = new StartsWithStrategy();
-         DisplayFilteredArray displayObj = new DisplayFilteredArray();
-        
+        DisplayFilteredArray displayObj = new DisplayFilteredArray();
         
         predicate.setStartsWith(startsWith);
         filteredList = filterObj.filter(predicate);
