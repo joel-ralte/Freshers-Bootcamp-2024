@@ -16,15 +16,15 @@ class FilterStringArray {
     }
     static ArrayList filter(String[] inputArray, Predicate<String> startsWith){
         ArrayList<String> filteredArray = new ArrayList<>();
-        for(int i=0;i<inputArray.length;i++){
+        for(int i=0; i<inputArray.length; i++){
               if(startsWith.test(inputArray[i])){
                   filteredArray.add(inputArray[i]);
               }
         }
         return filteredArray;
     }
-    static void displayInTerminal(ArrayList<String> list){
-        for(int i=0;i<list.size();i++)
-            System.out.println(list.get(i));
+    static void displayInTerminal(ArrayList<String> inputList){
+        for(int i=0; i<inputList.size(); i++)
+            System.out.println(inputList.get(i));
     }
 }
