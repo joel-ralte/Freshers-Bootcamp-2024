@@ -3,7 +3,7 @@ import java.util.*;
 interface Subject {
     public void subscribe(Observer o);
     public void unsubscribe(Observer o);
-    private void notifyObservers();
+    private void notifyObservers() {};
 }
 interface Observer {
     public void update(String state);
