@@ -39,7 +39,7 @@ class StartUpMotor implements IStartUpMotor{
 class FuelPump implements IFuelPump{
     
 }
-class HelloWorld {
+class Main {
     public static void main(String[] args) {
         IStartUpMotor startUpMotor = new StartUpMotor();
         IFuelPump fuelPump = new FuelPump();
@@ -48,7 +48,5 @@ class HelloWorld {
         ITransmission transmission = new Transmission();
         
         Car carObj = new Car(engine, transmission);
-        
-        System.out.println("Test");
     }
 }
