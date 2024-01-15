@@ -3,16 +3,6 @@ import java.util.*;
 interface SearchStrategy {
     void filter(StartsWithStrategy strategy);
 }
-class ConsoleDigitalController {
-    private String content;
-    
-    public void setContent (String msg) {
-        content = msg;
-    }
-    public void display() {
-        System.out.println(content);
-    }
-}
 class StartsWithStrategy {
     private String startsWith;
     
