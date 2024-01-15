@@ -62,7 +62,7 @@ class User implements Observer {
         System.out.println("State of current thread: "+state);
     }
 }
-class HelloWorld {
+class T {
     public static void main(String[] args) {
         User user1 = new User();
         Thread thread = new Thread();
