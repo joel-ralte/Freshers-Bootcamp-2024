@@ -11,7 +11,7 @@ class Container {
 class FilterArray {
     public ArrayList filterMethod (String[] inputArray, String inputString){
         ArrayList<String> filteredArray = new ArrayList<>();
-        for(int i=0;i<inputArray.length;i++){
+        for(int i=0; i<inputArray.length; i++){
               if((inputArray[i]).startsWith(inputString)){
                   filteredArray.add(inputArray[i]);
               }
@@ -20,9 +20,9 @@ class FilterArray {
     }
 }
 class DisplayFilteredArray {
-    public void displayInTerminal(ArrayList<String> list){
-        for(int i=0;i<list.size();i++)
-            System.out.println(list.get(i));
+    public void displayInTerminal(ArrayList<String> inputList){
+        for(int i=0; i<inputList.size(); i++)
+            System.out.println(inputList.get(i));
     }
 }
 class FilterStringArray {
