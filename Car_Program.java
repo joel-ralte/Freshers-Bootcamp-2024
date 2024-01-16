@@ -1,3 +1,6 @@
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
 import java.util.*;
 
 interface IEngine {
@@ -39,14 +42,38 @@ class StartUpMotor implements IStartUpMotor{
 class FuelPump implements IFuelPump{
     
 }
+@Configuration
+class CarConfig {
+
+    @Bean
+    public IStartUpMotor startUpMotor() {
+        return new StartUpMotor();
+    }
+
+    @Bean
+    public IFuelPump fuelPump() {
+        return new FuelPump();
+    }
+
+    @Bean
+    public IEngine engine(IStartUpMotor startUpMotor, IFuelPump fuelPump) {
+        return new Engine(startUpMotor, fuelPump);
+    }
+
+    @Bean
+    public ITransmission transmission() {
+        return new Transmission();
+    }
+
+    @Bean
+    public Car car(IEngine engine, ITransmission transmission) {
+        return new Car(engine, transmission);
+    }
+}
 class Main {
     public static void main(String[] args) {
-        IStartUpMotor startUpMotor = new StartUpMotor();
-        IFuelPump fuelPump = new FuelPump();
-        
-        IEngine engine = new Engine(startUpMotor, fuelPump);
-        ITransmission transmission = new Transmission();
-        
-        Car carObj = new Car(engine, transmission);
+        var context = new org.springframework.context.annotation.AnnotationConfigApplicationContext(CarConfig.class);
+        Car carObj = context.getBean(Car.class);
+        context.close();
     }
 }
