@@ -1,0 +1,6 @@
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\bin\Debug\Zeiss.DoorSystemPrevLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\bin\Debug\Zeiss.DoorSystemPrevLib.pdb
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\obj\Debug\Zeiss.DoorSystemPrevLib.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\obj\Debug\Zeiss.DoorSystemPrevLib.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\obj\Debug\Zeiss.DoorSystemPrevLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemPrev\Zeiss.DoorSystemPrevLib\obj\Debug\Zeiss.DoorSystemPrevLib.pdb

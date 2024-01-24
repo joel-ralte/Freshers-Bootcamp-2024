@@ -1,0 +1,10 @@
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\obj\Debug\DoorSystemPrev.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\obj\Debug\DoorSystemPrev.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\bin\Debug\DoorSystemPrev.exe.config
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\bin\Debug\DoorSystemPrev.exe
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\bin\Debug\DoorSystemPrev.pdb
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\bin\Debug\Zeiss.DoorSystemPrevLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\bin\Debug\Zeiss.DoorSystemPrevLib.pdb
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\obj\Debug\DoorSystemPrev.csproj.CopyComplete
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\obj\Debug\DoorSystemPrev.exe
+C:\Users\x6jralte\source\repos\DoorSystemPrev\DoorSystemPrev\obj\Debug\DoorSystemPrev.pdb
