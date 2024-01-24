@@ -1,6 +1,0 @@
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\bin\Debug\Zeiss.DoorSystemLib.dll
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\bin\Debug\Zeiss.DoorSystemLib.pdb
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\obj\Debug\Zeiss.DoorSystemLib.csproj.AssemblyReference.cache
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\obj\Debug\Zeiss.DoorSystemLib.csproj.CoreCompileInputs.cache
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\obj\Debug\Zeiss.DoorSystemLib.dll
-C:\Users\x6jralte\source\repos\DoorSystem\Zeiss.DoorSystemLib\obj\Debug\Zeiss.DoorSystemLib.pdb
