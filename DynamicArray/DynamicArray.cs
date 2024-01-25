@@ -10,6 +10,10 @@ public class DynamicArray<T>
 
     public DynamicArray(int initialCapacity)
     {
+        if (initialCapacity < 0)
+        {
+            throw new ArgumentException("Initial capacity cannot be lower than zero.", nameof(initialCapacity));
+        }
         capacity = initialCapacity;
         array = new T[capacity];
         count = 0;
