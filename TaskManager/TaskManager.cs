@@ -1,4 +1,5 @@
 using System;
+using System.Reflection;
 
 public interface IPrintable
 {
@@ -26,14 +27,23 @@ public class Scanner : IScannable
 
 public class PrintScanner : IPrintable, IScannable
 {
-    public void Print(string path)
+    private readonly IPrintable printer;
+    private readonly IScannable scanner;
+
+    public PrintScanner()
     {
-        System.Console.WriteLine($"Printing from PrintScanner.....{path}");
+        this.printer = new Printer();
+        this.scanner = new Scanner();
     }
 
-    public void Scan(string path)
+    public void Print(string document)
     {
-        System.Console.WriteLine($"Scanning from PrintScanner.....{path}");
+        printer.Print(document);
+    }
+
+    public void Scan(string document)
+    {
+        scanner.Scan(document);
     }
 }
 public class TaskManager
