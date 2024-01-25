@@ -18,12 +18,6 @@ public class DynamicArray<T>
 
     public void Add(int index, T item)
     {
-        if (index < 0 || index >= capacity)
-        {
-            System.Console.WriteLine("Index out of range.");
-            return;
-        }
-
         array[index] = item;
         count++;
 
