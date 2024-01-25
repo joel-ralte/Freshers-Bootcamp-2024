@@ -37,8 +37,7 @@ public class DynamicArray<T>
         {
             if (index < 0 || index >= count)
             {
-                System.Console.WriteLine("Index out of range.");
-                return default(T);
+                throw new IndexOutOfRangeException("Index is outside the valid range.");
             }
 
             return array[index];
