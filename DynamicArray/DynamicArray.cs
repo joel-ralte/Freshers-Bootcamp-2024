@@ -35,7 +35,7 @@ public class DynamicArray<T>
     {
         get
         {
-            if (index < 0 || index >= count)
+            if (index >= count)
             {
                 throw new IndexOutOfRangeException("Index is outside the valid range.");
             }
