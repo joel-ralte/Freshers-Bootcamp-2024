@@ -1,0 +1,10 @@
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\bin\Debug\DoorSystemMediator.exe.config
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\bin\Debug\DoorSystemMediator.exe
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\bin\Debug\DoorSystemMediator.pdb
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\obj\Debug\DoorSystemMediator.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\obj\Debug\DoorSystemMediator.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\obj\Debug\DoorSystemMediator.exe
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\obj\Debug\DoorSystemMediator.pdb
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\bin\Debug\Zeiss.DoorSystemMediatorLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\bin\Debug\Zeiss.DoorSystemMediatorLib.pdb
+C:\Users\x6jralte\source\repos\DoorSystemMediator\DoorSystemMediator\obj\Debug\DoorSystemMediator.csproj.CopyComplete

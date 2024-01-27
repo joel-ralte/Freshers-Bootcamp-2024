@@ -1,0 +1,6 @@
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\obj\Debug\Zeiss.DoorSystemMediatorLib.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\obj\Debug\Zeiss.DoorSystemMediatorLib.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\bin\Debug\Zeiss.DoorSystemMediatorLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\bin\Debug\Zeiss.DoorSystemMediatorLib.pdb
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\obj\Debug\Zeiss.DoorSystemMediatorLib.dll
+C:\Users\x6jralte\source\repos\DoorSystemMediator\Zeiss.DoorSystemMediatorLib\obj\Debug\Zeiss.DoorSystemMediatorLib.pdb

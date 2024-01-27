@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorSystemMediator", "DoorSystemMediator\DoorSystemMediator.csproj", "{34F82A76-249B-4052-9B71-47D47A661D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.DoorSystemMediatorLib", "Zeiss.DoorSystemMediatorLib\Zeiss.DoorSystemMediatorLib.csproj", "{53312966-D199-41F7-87B6-ECF4FA3FFD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F82A76-249B-4052-9B71-47D47A661D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F82A76-249B-4052-9B71-47D47A661D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F82A76-249B-4052-9B71-47D47A661D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F82A76-249B-4052-9B71-47D47A661D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53312966-D199-41F7-87B6-ECF4FA3FFD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53312966-D199-41F7-87B6-ECF4FA3FFD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53312966-D199-41F7-87B6-ECF4FA3FFD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53312966-D199-41F7-87B6-ECF4FA3FFD89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E937D0-3E81-4C69-8111-981C68F6F567}
+	EndGlobalSection
+EndGlobal
