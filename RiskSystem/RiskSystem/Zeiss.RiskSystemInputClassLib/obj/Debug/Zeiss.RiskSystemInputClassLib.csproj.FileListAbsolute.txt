@@ -1,0 +1,6 @@
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\bin\Debug\Zeiss.RiskSystemInputClassLib.dll
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\bin\Debug\Zeiss.RiskSystemInputClassLib.pdb
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\obj\Debug\Zeiss.RiskSystemInputClassLib.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\obj\Debug\Zeiss.RiskSystemInputClassLib.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\obj\Debug\Zeiss.RiskSystemInputClassLib.dll
+C:\Users\x6jralte\source\repos\RiskSystem\Zeiss.RiskSystemInputClassLib\obj\Debug\Zeiss.RiskSystemInputClassLib.pdb

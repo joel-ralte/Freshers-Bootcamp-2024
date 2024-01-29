@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiskSystem", "RiskSystem\RiskSystem.csproj", "{69BFE869-4D42-4AE5-ADF0-FF7CA54A8E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.RiskSystemInterfaceLib", "Zeiss.RiskSystemInterfaceLib\Zeiss.RiskSystemInterfaceLib.csproj", "{01A8265C-4CDE-4F7C-B88C-65526D17C74F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.RiskSystemClassLib", "Zeiss.RiskSystemClassLib\Zeiss.RiskSystemClassLib.csproj", "{B7EF5CE1-4244-42AB-9A8D-1C01AF823696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.RiskSystemInputClassLib", "Zeiss.RiskSystemInputClassLib\Zeiss.RiskSystemInputClassLib.csproj", "{D0C36E1B-8BA4-4898-85F3-34897BEFBE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.RiskSystemControllerLib", "Zeiss.RiskSystemControllerLib\Zeiss.RiskSystemControllerLib.csproj", "{3FE6D39C-F4DB-4DD1-ABF2-FCA0ED60A675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BFE869-4D42-4AE5-ADF0-FF7CA54A8E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BFE869-4D42-4AE5-ADF0-FF7CA54A8E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BFE869-4D42-4AE5-ADF0-FF7CA54A8E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BFE869-4D42-4AE5-ADF0-FF7CA54A8E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A8265C-4CDE-4F7C-B88C-65526D17C74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A8265C-4CDE-4F7C-B88C-65526D17C74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A8265C-4CDE-4F7C-B88C-65526D17C74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A8265C-4CDE-4F7C-B88C-65526D17C74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EF5CE1-4244-42AB-9A8D-1C01AF823696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EF5CE1-4244-42AB-9A8D-1C01AF823696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EF5CE1-4244-42AB-9A8D-1C01AF823696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EF5CE1-4244-42AB-9A8D-1C01AF823696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C36E1B-8BA4-4898-85F3-34897BEFBE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C36E1B-8BA4-4898-85F3-34897BEFBE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C36E1B-8BA4-4898-85F3-34897BEFBE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C36E1B-8BA4-4898-85F3-34897BEFBE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE6D39C-F4DB-4DD1-ABF2-FCA0ED60A675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE6D39C-F4DB-4DD1-ABF2-FCA0ED60A675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE6D39C-F4DB-4DD1-ABF2-FCA0ED60A675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE6D39C-F4DB-4DD1-ABF2-FCA0ED60A675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A870DD9-439D-4F8D-81B6-66F5745018BA}
+	EndGlobalSection
+EndGlobal
