@@ -21,4 +21,5 @@ jobs:
       run: pip install lizard
  
     - name: Run Lizard
-      run: lizard . --exclude "NumberAdder/Before" --CCN 3
+      run: |
+        find . -type f -not -path "./NumberAdder/Before/*" -name "*.cs" -exec lizard {} + --CCN 3
