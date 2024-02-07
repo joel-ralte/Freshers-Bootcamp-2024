@@ -1,0 +1,6 @@
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\bin\Debug\Zeiss.NumberAdderLib.dll
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\bin\Debug\Zeiss.NumberAdderLib.pdb
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\obj\Debug\Zeiss.NumberAdderLib.csproj.AssemblyReference.cache
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\obj\Debug\Zeiss.NumberAdderLib.csproj.CoreCompileInputs.cache
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\obj\Debug\Zeiss.NumberAdderLib.dll
+C:\Users\x6jralte\source\repos\NumberAdder\Zeiss.NumberAdderLib\obj\Debug\Zeiss.NumberAdderLib.pdb
