@@ -110,6 +110,10 @@ It provides various strategies along with their relevant examples to achieve thi
     ```
     > Similarly to "Canonicalize", other words and phrases such as "Heuristic", "Brute force" and "Naive solution" are recommended for use in their respective programming situations .
 
+## Conclusion
+
+Pictorial illustrations, code examples and their explanations provided throughout the chapter illustrate the above principles and the difference they make in the readability of well structured comments.
+
 ## Authors
 
 *Joel Lalrinnunga Ralte*
