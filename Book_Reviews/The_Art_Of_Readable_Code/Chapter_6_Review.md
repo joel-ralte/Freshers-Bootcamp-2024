@@ -113,6 +113,7 @@ It provides various strategies along with their relevant examples to achieve thi
 ## Authors
 
 *Joel Lalrinnunga Ralte*
+
 *Nachiappan R*
 
 
